@@ -1,4 +1,4 @@
-package com.example.configprops.value;
+package com.example.configprops.redis;
 
 
 import lombok.RequiredArgsConstructor;
